@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnspkm
 - 👀 I’m interested in Product management and startups
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
 <!---
